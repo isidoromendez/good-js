@@ -20,4 +20,5 @@ Is just a set of usefull link and anotations for JS developers.
 
 # OWASP
 - [OWASP](https://owasp.org/)
+- [NodeJS Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 - [NodeGoat](https://github.com/OWASP/NodeGoat)
